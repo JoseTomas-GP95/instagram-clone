@@ -2,7 +2,6 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore"
 import 'firebase/firestore'
-
 /*
   -configurar el firestore: https://firebase.google.com/docs/firestore/quickstart
   - delete: https://firebase.google.com/docs/firestore/manage-data/delete-data
